@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1055076403662",
+    "project_id": "attend-signin",
+    "storage_bucket": "attend-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055076403662:android:a1f8f5843e48df7314839f",
+        "android_client_info": {
+          "package_name": "com.example.attendsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055076403662-u0cjblb3p1os80rd2jfuakv9cmr4e4lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendsignin",
+            "certificate_hash": "61873b356ba50fd0e87483793b055155403af464"
+          }
+        },
+        {
+          "client_id": "1055076403662-nlrmvs22bvke2m66hq6so7il8cnmm1nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-cKGFu4qos0ZRZ6anlyAYx94Leh0-eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055076403662-nlrmvs22bvke2m66hq6so7il8cnmm1nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
